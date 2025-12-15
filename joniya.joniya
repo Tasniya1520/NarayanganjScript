@@ -1,0 +1,11 @@
+# Narayanganj code
+x a 10 rakho
+y a 5 rakho
+"Total:" dekha
+x er_sathe y dekha
+
+# Same as Python:
+x = 10
+y = 5
+print("Total:")
+print(x + y)
